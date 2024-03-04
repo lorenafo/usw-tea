@@ -1,0 +1,23 @@
+{
+  "name": "usw-tea",
+  "version": "1.0.0",
+  "description": "United Social Wrapper for Tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lorenafo/usw-tea.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "1.0.0",
+    "teas-crrep": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorenafo/usw-tea/issues"
+  },
+  "homepage": "https://github.com/lorenafo/usw-tea#readme"
+}
