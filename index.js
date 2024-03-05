@@ -3,6 +3,7 @@ class USWTea {
       this.teaType = teaType;
       this.brewTime = brewTime;
       this.isBrewed = false;
+      
     }
   
     brew() {
